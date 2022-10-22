@@ -3,7 +3,7 @@ import json
 
 business_id = 'NkP2RxMxJdX5tYL22gsHSA'
 
-API_KEY = 'Gm2_Eqv8w2kpyhMqFYBJns1p2KNRtG5NY_LtrK6TDt_DtqVm2zqpL8LM4yzqLV-VTyI0ja8c5fpN73nC31aXCoaJWNuMc2YoUZv2MrtvGVbM4dR4Tg4TTYkxVU9PY3Yx'
+API_KEY = ''
 END_POINT = 'https://api.yelp.com/v3/businesses/search'
 HEADERS = {'Authorization': 'bearer %s' % API_KEY}
 

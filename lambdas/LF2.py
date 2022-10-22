@@ -33,8 +33,8 @@ def replace_decimals(obj):
 
 def lambda_handler(event, context):
     # Create SQS client
-    YOUR_ACCESS_KEY = "AKIAVXF7Q2MXXTULSYUN"
-    YOUR_SECRET_KEY = "jPTaTYcxfqP36kWlDp1reVDrLa+sWC1u+cMmPm+g"
+    YOUR_ACCESS_KEY = ""
+    YOUR_SECRET_KEY = ""
     region = "us-east-1"
     service = 'es'
 
